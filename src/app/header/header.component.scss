@@ -1,0 +1,17 @@
+// #Header {
+//     display: flex;
+//     justify-content: space-around;
+// }
+// .navbar-collapse {
+//     display: flex;
+//     justify-content: space-around;
+// }
+.Navigations {
+    margin-left: 650px;
+}
+
+@media (max-width:995px) {
+    .Navigations {
+        margin-left: 0px;
+    }
+}
